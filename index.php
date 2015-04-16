@@ -7,11 +7,14 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Simple To-Do List</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css"</link> 
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <div class = "wrap">
+            <?php
+            // put your code here
+            ?>
+        </div>    
     </body>
 </html>
