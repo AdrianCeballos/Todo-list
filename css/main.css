@@ -8,3 +8,5 @@ and open the template in the editor.
     Author     : Student
 */
 
+@import "css/reset.css";
+@import "css/normalize.css";
